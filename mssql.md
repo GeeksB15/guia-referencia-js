@@ -5,8 +5,9 @@
 pacote npm utilizado
 
 https://www.npmjs.com/package/mssql
-
-
+```sh
+npm install mssql
+```
 ```js
 const sql = require('mssql')
 
