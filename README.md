@@ -35,6 +35,8 @@ https://www.w3schools.com/JS/js_operators.asp
 ### JS Javascript
 <a href="https://github.com/GeeksB15/guia-referencia-js/blob/main/js.md">javascript guia</a>
 
+<a href="https://github.com/GeeksB15/guia-referencia-js/blob/main/mssql.md">Para acessar SQL Server</a>
+
 ---
 ## Para gerar executável (pacote PKG)
 
