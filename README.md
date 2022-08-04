@@ -44,7 +44,7 @@ https://www.w3schools.com/JS/js_operators.asp
 ### Dicas
 * para formatar fonte no vscode usar ALT + SHIFT + F
 * <a href="https://www.npmjs.com/package/node-cron">Biblioteca excelente para agendamento</a>
-* enviar email
+* <a href="https://github.com/GeeksB15/guia-referencia-js/blob/main/email.md">enviar email</a>
 
 
 
