@@ -30,6 +30,7 @@ https://www.w3schools.com/JS/js_operators.asp
 * async await promise
 * saber ler e gravar arquivos (modulo fs)
 * fetch
+* template string
 ---
 ### JS Javascript
 
