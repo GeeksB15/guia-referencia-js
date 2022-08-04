@@ -33,11 +33,9 @@ https://www.w3schools.com/JS/js_operators.asp
 * template string
 ---
 ### JS Javascript
+<a href="https://github.com/GeeksB15/guia-referencia-js/blob/main/js.md">javascript guia</a>
 
 
-'''
-let str = "5";
-str = str.padStart(4,0);
-// result is 0005
-'''
+
+
 
