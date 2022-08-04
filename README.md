@@ -36,13 +36,13 @@ https://www.w3schools.com/JS/js_operators.asp
 <a href="https://github.com/GeeksB15/guia-referencia-js/blob/main/js.md">javascript guia</a>
 
 ---
-## Para gerar executavel
+## Para gerar executável (pacote PKG)
 
 ### instalar pacote pkg
 ```sh
 npm i pkg -g
 ```
-### gerar o executavel
+### gerar o executável
 ```sh
 pkg index.js -t node16-win-x64 
 ```
