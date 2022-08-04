@@ -54,7 +54,17 @@ for (let i = 0; i < cars.length; i++) {
   text += cars[i] + "<br>"
 }
 
+function numero(valor) {
+  return new Intl.NumberFormat('pt-br', { minimumFractionDigits: 2 }).format(valor)
+}
 
+function titleCase(str) {
+  var splitStr = str.toLowerCase().split(' ')
+  for (var i = 0; i < splitStr.length; i++) {
+    splitStr[i] = splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1)
+  }
+  return splitStr.join(' ')
+}
 
 ```
 
