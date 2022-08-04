@@ -19,3 +19,7 @@ const pdfConvert = async (url, path) => {
   await page.pdf({ path, printBackground: true, format: 'A4',  margin: { left: '0.5cm'} })
   await browser.close()
 }
+
+const filename = `notafiscal-${uuid.v4()}.pdf`
+path = '/docs/' + filename
+await pdfConvert(urlimpressao, path)
