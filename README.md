@@ -45,6 +45,7 @@ https://www.w3schools.com/JS/js_operators.asp
 <a href="https://github.com/GeeksB15/guia-referencia-js/blob/main/email.md">enviar email</a>
 
 <a href="https://github.com/GeeksB15/guia-referencia-js/blob/main/pupperteer.md">html to pdf</a>
+
 ---
 ### Dicas
 * para formatar fonte no vscode usar ALT + SHIFT + F
