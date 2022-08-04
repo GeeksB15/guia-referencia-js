@@ -6,6 +6,7 @@
 pacote npm utilizado
 
 https://www.npmjs.com/package/nodemailer
+
 https://nodemailer.com/about/
 
 ```sh
@@ -60,3 +61,7 @@ await enviarEmail({
     })
 
 ```
+---
+
+### Ativar email menos seguro
+  https://www.google.com/settings/security/lesssecureapps  
