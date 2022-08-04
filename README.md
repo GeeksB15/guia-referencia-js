@@ -7,7 +7,7 @@ Guia de referência inicial para trabalhar com nodejs
 * nodejs v16
 * npm
 * Visual Studio Code
-* git basicao pelo Vscode
+* git
 
 ---
 ## Sites
@@ -31,6 +31,7 @@ https://www.w3schools.com/JS/js_operators.asp
 * saber ler e gravar arquivos (modulo fs)
 * fetch
 * template string
+* git basicão pelo Vscode
 ---
 ### JS Javascript
 <a href="https://github.com/GeeksB15/guia-referencia-js/blob/main/js.md">javascript guia</a>
