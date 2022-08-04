@@ -35,6 +35,26 @@ https://www.w3schools.com/JS/js_operators.asp
 ### JS Javascript
 <a href="https://github.com/GeeksB15/guia-referencia-js/blob/main/js.md">javascript guia</a>
 
+---
+## Para gerar executavel
+
+### instalar pacote pkg
+```sh
+npm i pkg -g
+```
+### gerar o executavel
+```sh
+pkg index.js -t node16-win-x64 
+```
+### colocar no package.json
+``` json
+{
+ "bin": "index.js",
+}
+```
+
+
+
 
 
 
