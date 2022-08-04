@@ -34,9 +34,9 @@ https://www.w3schools.com/JS/js_operators.asp
 ### JS Javascript
 
 
-˜˜˜
+'''
 let str = "5";
 str = str.padStart(4,0);
 // result is 0005
-˜˜˜
+'''
 
