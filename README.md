@@ -26,7 +26,7 @@ https://www.w3schools.com/JS/js_operators.asp
 * let const
 * criar funções
 * manipular string
-* manipular datas
+*  <a href="https://github.com/GeeksB15/guia-referencia-js/blob/main/pkg.md">manipular datas</a>
 * async await promise
 * saber ler e gravar arquivos (modulo fs)
 * fetch
