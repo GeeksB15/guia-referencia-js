@@ -1,5 +1,5 @@
-# guia-referencia-js
-Guia de referencia inicial para trabalhar com nodejs
+# Guia referência js Javascript
+Guia de referência inicial para trabalhar com nodejs
 
 
 ---
