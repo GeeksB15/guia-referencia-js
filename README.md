@@ -38,6 +38,8 @@ https://www.w3schools.com/JS/js_operators.asp
 
 <a href="https://github.com/GeeksB15/guia-referencia-js/blob/main/mssql.md">Para acessar SQL Server</a>
 
+<a href="https://github.com/GeeksB15/guia-referencia-js/blob/main/pkg.md">Para gerar executável</a>
+
 ---
 
 
