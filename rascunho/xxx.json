@@ -1,0 +1,1561 @@
+[
+    {
+        "RecordsAffected": 4,
+        "Records": [
+            {
+                "Sistema": "_ Geeks Interno",
+                "MenuPai": "Raiz",
+                "CodigoSistemaObjeto": 531,
+                "CodigoSistema": 4,
+                "CodigoObjeto": 34,
+                "CodigoPai": null,
+                "Ordem": 30,
+                "CodigoClienteGeeks": null,
+                "id": "2b51de9c-c66b-42d8-90df-8e42135a2578",
+                "idSistema": "ce53c1aa-eeb3-4d22-a829-f41a3b67b2f6",
+                "idClienteGeeks": null,
+                "idPai": null,
+                "idObjeto": "3bc33047-301f-4515-a55e-490eebc2a4f5",
+                "rota": null,
+                "Razao": "",
+                "bancodedados": ""
+            },
+            {
+                "Sistema": "Requisição",
+                "MenuPai": "Raiz",
+                "CodigoSistemaObjeto": 3096,
+                "CodigoSistema": 50,
+                "CodigoObjeto": 34,
+                "CodigoPai": null,
+                "Ordem": 30,
+                "CodigoClienteGeeks": null,
+                "id": "4130208b-a657-4137-ad5a-22c2fd0d28ca",
+                "idSistema": "a1541ba7-6aff-4189-97f4-151545bc5356",
+                "idClienteGeeks": null,
+                "idPai": null,
+                "idObjeto": "3bc33047-301f-4515-a55e-490eebc2a4f5",
+                "rota": null,
+                "Razao": "",
+                "bancodedados": ""
+            },
+            {
+                "Sistema": "B15 Business",
+                "MenuPai": "Raiz",
+                "CodigoSistemaObjeto": 3765,
+                "CodigoSistema": 61,
+                "CodigoObjeto": 34,
+                "CodigoPai": null,
+                "Ordem": 50,
+                "CodigoClienteGeeks": 14,
+                "id": "2cb743f3-5924-471a-afc7-59e6d8e1d5a0",
+                "idSistema": "718afd80-adda-42da-a004-1c20d9ec9efc",
+                "idClienteGeeks": "233c4b24-39cd-47dc-b762-cf44de979f87",
+                "idPai": null,
+                "idObjeto": "3bc33047-301f-4515-a55e-490eebc2a4f5",
+                "rota": null,
+                "Razao": "GEEKS SOLUÇÕES - GEEKS SOLUÇÕES EM SOFTWARE LTDA",
+                "bancodedados": "GeeksWeb"
+            },
+            {
+                "Sistema": "B15 Business",
+                "MenuPai": "Raiz",
+                "CodigoSistemaObjeto": 4088,
+                "CodigoSistema": 61,
+                "CodigoObjeto": 34,
+                "CodigoPai": null,
+                "Ordem": 50,
+                "CodigoClienteGeeks": 2105,
+                "id": "4b07ad12-91d1-4649-9526-2b56aebd0b95",
+                "idSistema": "718afd80-adda-42da-a004-1c20d9ec9efc",
+                "idClienteGeeks": "5d967920-72ce-4129-8c97-d7091577cef3",
+                "idPai": null,
+                "idObjeto": "3bc33047-301f-4515-a55e-490eebc2a4f5",
+                "rota": null,
+                "Razao": "Optidados - Optidados Softwares Opticos Ltda-Me",
+                "bancodedados": "Optidados"
+            }
+        ],
+        "ErrorMessage": null,
+        "ErrorStack": null,
+        "HasError": false,
+        "Html": null,
+        "Columns": [
+            {
+                "ColumnName": "Sistema",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "MenuPai",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "CodigoSistemaObjeto",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "CodigoSistema",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "CodigoObjeto",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "CodigoPai",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Ordem",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "CodigoClienteGeeks",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "id",
+                "ColumnType": "Guid"
+            },
+            {
+                "ColumnName": "idSistema",
+                "ColumnType": "Guid"
+            },
+            {
+                "ColumnName": "idClienteGeeks",
+                "ColumnType": "Guid"
+            },
+            {
+                "ColumnName": "idPai",
+                "ColumnType": "Guid"
+            },
+            {
+                "ColumnName": "idObjeto",
+                "ColumnType": "Guid"
+            },
+            {
+                "ColumnName": "rota",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Razao",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "bancodedados",
+                "ColumnType": "String"
+            }
+        ]
+    },
+    {
+        "RecordsAffected": 8,
+        "Records": [
+            {
+                "NomeB": "Raiz",
+                "Objeto": "Requisições",
+                "CodigoBotao": 4823,
+                "CodigoObjeto": 34,
+                "Nome": "Incluir",
+                "Valor": "Incluir",
+                "SentencaSQL": null,
+                "Ordem": 15,
+                "Funcao": null,
+                "Icone": "icon-plus-3",
+                "CodigoPai": null,
+                "VisivelComRegistro": false
+            },
+            {
+                "NomeB": "Raiz",
+                "Objeto": "Requisições",
+                "CodigoBotao": 4824,
+                "CodigoObjeto": 34,
+                "Nome": "Pesquisar",
+                "Valor": "Pesquisar",
+                "SentencaSQL": null,
+                "Ordem": 40,
+                "Funcao": null,
+                "Icone": "icon-search-2",
+                "CodigoPai": null,
+                "VisivelComRegistro": false
+            },
+            {
+                "NomeB": "Raiz",
+                "Objeto": "Requisições",
+                "CodigoBotao": 4829,
+                "CodigoObjeto": 34,
+                "Nome": "Gravar",
+                "Valor": "Gravar",
+                "SentencaSQL": null,
+                "Ordem": 30,
+                "Funcao": null,
+                "Icone": "icon-checkmark",
+                "CodigoPai": null,
+                "VisivelComRegistro": false
+            },
+            {
+                "NomeB": "Raiz",
+                "Objeto": "Requisições",
+                "CodigoBotao": 4830,
+                "CodigoObjeto": 34,
+                "Nome": "TrocarStatus",
+                "Valor": "Trocar Status",
+                "SentencaSQL": null,
+                "Ordem": 60,
+                "Funcao": null,
+                "Icone": "icon-pencil-2",
+                "CodigoPai": null,
+                "VisivelComRegistro": false
+            },
+            {
+                "NomeB": "Raiz",
+                "Objeto": "Requisições",
+                "CodigoBotao": 4831,
+                "CodigoObjeto": 34,
+                "Nome": "Iniciar",
+                "Valor": "Em andamento",
+                "SentencaSQL": null,
+                "Ordem": 50,
+                "Funcao": null,
+                "Icone": "icon-play-2",
+                "CodigoPai": null,
+                "VisivelComRegistro": false
+            },
+            {
+                "NomeB": "Raiz",
+                "Objeto": "Requisições",
+                "CodigoBotao": 4832,
+                "CodigoObjeto": 34,
+                "Nome": "Parar",
+                "Valor": "Pausar",
+                "SentencaSQL": null,
+                "Ordem": 50,
+                "Funcao": null,
+                "Icone": "icon-pause",
+                "CodigoPai": null,
+                "VisivelComRegistro": false
+            },
+            {
+                "NomeB": "Raiz",
+                "Objeto": "Requisições",
+                "CodigoBotao": 4840,
+                "CodigoObjeto": 34,
+                "Nome": "Atualizar",
+                "Valor": "Atualizar",
+                "SentencaSQL": null,
+                "Ordem": 33,
+                "Funcao": null,
+                "Icone": "icon-loop-2",
+                "CodigoPai": null,
+                "VisivelComRegistro": false
+            },
+            {
+                "NomeB": "Raiz",
+                "Objeto": "Requisições",
+                "CodigoBotao": 4841,
+                "CodigoObjeto": 34,
+                "Nome": "Teste",
+                "Valor": "Teste",
+                "SentencaSQL": null,
+                "Ordem": 1000,
+                "Funcao": null,
+                "Icone": "icon-newspaper",
+                "CodigoPai": null,
+                "VisivelComRegistro": false
+            }
+        ],
+        "ErrorMessage": null,
+        "ErrorStack": null,
+        "HasError": false,
+        "Html": null,
+        "Columns": [
+            {
+                "ColumnName": "NomeB",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Objeto",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "CodigoBotao",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "CodigoObjeto",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Nome",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Valor",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "SentencaSQL",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Ordem",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Funcao",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Icone",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "CodigoPai",
+                "ColumnType": "Decimal"
+            },
+            {
+                "ColumnName": "VisivelComRegistro",
+                "ColumnType": "Boolean"
+            }
+        ]
+    },
+    {
+        "RecordsAffected": 7,
+        "Records": [
+            {
+                "CodigoSessao": 5124,
+                "CodigoObjeto": 34,
+                "Descricao": "Requisições (Filtradas)",
+                "Largura": 4,
+                "Layout": "opened",
+                "TipoSessao": "Grade",
+                "Ordem": 10,
+                "SentencaSQL": null,
+                "Tamanho": 0,
+                "Posicao": 0,
+                "Ativo": true,
+                "Alinhamento": "left"
+            },
+            {
+                "CodigoSessao": 5125,
+                "CodigoObjeto": 34,
+                "Descricao": "Dados",
+                "Largura": 4,
+                "Layout": "opened",
+                "TipoSessao": "Campo",
+                "Ordem": 20,
+                "SentencaSQL": null,
+                "Tamanho": 0,
+                "Posicao": 0,
+                "Ativo": true,
+                "Alinhamento": "left"
+            },
+            {
+                "CodigoSessao": 5126,
+                "CodigoObjeto": 34,
+                "Descricao": "Apontamentos",
+                "Largura": 4,
+                "Layout": "opened",
+                "TipoSessao": "Grade",
+                "Ordem": 40,
+                "SentencaSQL": null,
+                "Tamanho": 200,
+                "Posicao": 0,
+                "Ativo": true,
+                "Alinhamento": "left"
+            },
+            {
+                "CodigoSessao": 5127,
+                "CodigoObjeto": 34,
+                "Descricao": "Nova Anotação",
+                "Largura": 3,
+                "Layout": "opened",
+                "TipoSessao": "Campo",
+                "Ordem": 30,
+                "SentencaSQL": null,
+                "Tamanho": 230,
+                "Posicao": 0,
+                "Ativo": false,
+                "Alinhamento": "left"
+            },
+            {
+                "CodigoSessao": 5128,
+                "CodigoObjeto": 34,
+                "Descricao": "Hist. Anotações",
+                "Largura": 4,
+                "Layout": "opened",
+                "TipoSessao": "Grade",
+                "Ordem": 30,
+                "SentencaSQL": null,
+                "Tamanho": 0,
+                "Posicao": 0,
+                "Ativo": true,
+                "Alinhamento": "right"
+            },
+            {
+                "CodigoSessao": 5129,
+                "CodigoObjeto": 34,
+                "Descricao": "Filtros",
+                "Largura": 6,
+                "Layout": "opened",
+                "TipoSessao": "Campo",
+                "Ordem": 80,
+                "SentencaSQL": null,
+                "Tamanho": 0,
+                "Posicao": 0,
+                "Ativo": true,
+                "Alinhamento": "left"
+            },
+            {
+                "CodigoSessao": 5130,
+                "CodigoObjeto": 34,
+                "Descricao": "Anexos",
+                "Largura": 6,
+                "Layout": "opened",
+                "TipoSessao": "SessaoBranco",
+                "Ordem": 90,
+                "SentencaSQL": null,
+                "Tamanho": 125,
+                "Posicao": 0,
+                "Ativo": true,
+                "Alinhamento": "left"
+            }
+        ],
+        "ErrorMessage": null,
+        "ErrorStack": null,
+        "HasError": false,
+        "Html": null,
+        "Columns": [
+            {
+                "ColumnName": "CodigoSessao",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "CodigoObjeto",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Descricao",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Largura",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Layout",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "TipoSessao",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Ordem",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "SentencaSQL",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Tamanho",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Posicao",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Ativo",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "Alinhamento",
+                "ColumnType": "String"
+            }
+        ]
+    },
+    {
+        "RecordsAffected": 29,
+        "Records": [
+            {
+                "CodigoCampo": 8408,
+                "CodigoSessao": 5125,
+                "Label": "Código",
+                "Nome": null,
+                "Id": "CodigoDocumento",
+                "ValorPadrao": null,
+                "TipoCampo": "numero",
+                "LabelLargura": 1,
+                "CampoLargura": 2,
+                "Identificador": true,
+                "Leitura": true,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 991,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": false,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8409,
+                "CodigoSessao": 5125,
+                "Label": "CodigoEmpresa",
+                "Nome": null,
+                "Id": "CodigoEmpresa",
+                "ValorPadrao": null,
+                "TipoCampo": "numero",
+                "LabelLargura": 0,
+                "CampoLargura": 0,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": true,
+                "SentencaSQL": null,
+                "Ordem": 10,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": true,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": false,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8410,
+                "CodigoSessao": 5125,
+                "Label": "Empresa",
+                "Nome": null,
+                "Id": "DescricaoEmpresa",
+                "ValorPadrao": null,
+                "TipoCampo": "prompt",
+                "LabelLargura": 1,
+                "CampoLargura": 3,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": true,
+                "SentencaSQL": null,
+                "Ordem": 20,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": true,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8411,
+                "CodigoSessao": 5125,
+                "Label": "Cliente",
+                "Nome": null,
+                "Id": "CodigoContato",
+                "ValorPadrao": null,
+                "TipoCampo": "numero",
+                "LabelLargura": 0,
+                "CampoLargura": 0,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": true,
+                "SentencaSQL": null,
+                "Ordem": 25,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": true,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": false,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8412,
+                "CodigoSessao": 5125,
+                "Label": "Cliente",
+                "Nome": null,
+                "Id": "DescricaoContato",
+                "ValorPadrao": null,
+                "TipoCampo": "prompt",
+                "LabelLargura": 1,
+                "CampoLargura": 4,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": true,
+                "SentencaSQL": null,
+                "Ordem": 1,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": true,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8413,
+                "CodigoSessao": 5125,
+                "Label": "Solicitante",
+                "Nome": null,
+                "Id": "CodigoContatoComprador",
+                "ValorPadrao": null,
+                "TipoCampo": "numero",
+                "LabelLargura": 0,
+                "CampoLargura": 0,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": true,
+                "SentencaSQL": null,
+                "Ordem": 999,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": true,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": false,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8414,
+                "CodigoSessao": 5125,
+                "Label": "Solicitante",
+                "Nome": null,
+                "Id": "DescricaoSolicitante",
+                "ValorPadrao": null,
+                "TipoCampo": "prompt",
+                "LabelLargura": 1,
+                "CampoLargura": 4,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": true,
+                "SentencaSQL": null,
+                "Ordem": 40,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": true,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8415,
+                "CodigoSessao": 5125,
+                "Label": "Telefone",
+                "Nome": null,
+                "Id": "TelefoneContato",
+                "ValorPadrao": null,
+                "TipoCampo": "texto",
+                "LabelLargura": 1,
+                "CampoLargura": 2,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 45,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8416,
+                "CodigoSessao": 5125,
+                "Label": "Operação",
+                "Nome": null,
+                "Id": "OperacaoProduto",
+                "ValorPadrao": null,
+                "TipoCampo": "texto",
+                "LabelLargura": 1,
+                "CampoLargura": 2,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 880,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": false,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8417,
+                "CodigoSessao": 5125,
+                "Label": "Email",
+                "Nome": null,
+                "Id": "EmailContato",
+                "ValorPadrao": null,
+                "TipoCampo": "texto",
+                "LabelLargura": 1,
+                "CampoLargura": 3,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 50,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8418,
+                "CodigoSessao": 5125,
+                "Label": "Assunto",
+                "Nome": null,
+                "Id": "Observacao",
+                "ValorPadrao": null,
+                "TipoCampo": "textolongo",
+                "LabelLargura": 1,
+                "CampoLargura": 11,
+                "Identificador": false,
+                "Leitura": false,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 55,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8419,
+                "CodigoSessao": 5125,
+                "Label": "Solicitação",
+                "Nome": null,
+                "Id": "ObservacaoInterna",
+                "ValorPadrao": "#Caminho/Tela  #Problema/Solicitação  #Dados verificados/Dados simulação ",
+                "TipoCampo": "textolongo",
+                "LabelLargura": 1,
+                "CampoLargura": 11,
+                "Identificador": false,
+                "Leitura": false,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 60,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8420,
+                "CodigoSessao": 5125,
+                "Label": "Codigo Produto",
+                "Nome": null,
+                "Id": "CodigoProduto",
+                "ValorPadrao": null,
+                "TipoCampo": "numero",
+                "LabelLargura": 3,
+                "CampoLargura": 9,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 65,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": false,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8421,
+                "CodigoSessao": 5125,
+                "Label": "Classificação",
+                "Nome": null,
+                "Id": "DescricaoProduto",
+                "ValorPadrao": null,
+                "TipoCampo": "prompt",
+                "LabelLargura": 1,
+                "CampoLargura": 11,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 70,
+                "LeCampoDoBanco": false,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8423,
+                "CodigoSessao": 5125,
+                "Label": "Responsável",
+                "Nome": null,
+                "Id": "CodigoContatoResponsavel",
+                "ValorPadrao": null,
+                "TipoCampo": "numero",
+                "LabelLargura": 0,
+                "CampoLargura": 0,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 85,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": false,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8424,
+                "CodigoSessao": 5125,
+                "Label": "Responsável",
+                "Nome": null,
+                "Id": "DescricaoResponsavel",
+                "ValorPadrao": null,
+                "TipoCampo": "prompt",
+                "LabelLargura": 1,
+                "CampoLargura": 7,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 90,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8425,
+                "CodigoSessao": 5125,
+                "Label": "Prioridade",
+                "Nome": null,
+                "Id": "Prioridade",
+                "ValorPadrao": null,
+                "TipoCampo": "texto",
+                "LabelLargura": 1,
+                "CampoLargura": 3,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": false,
+                "SentencaSQL": "1 - Urgente=1 - Urgente\n2 - Alta=2 - Alta\n3 - Média=3 - Média\n4 - Baixa=4 - Baixa\n",
+                "Ordem": 77,
+                "LeCampoDoBanco": false,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8426,
+                "CodigoSessao": 5125,
+                "Label": "Finalizado",
+                "Nome": null,
+                "Id": "Finalizado",
+                "ValorPadrao": null,
+                "TipoCampo": "data",
+                "LabelLargura": 1,
+                "CampoLargura": 5,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 81,
+                "LeCampoDoBanco": false,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8436,
+                "CodigoSessao": 5125,
+                "Label": "Grupo",
+                "Nome": null,
+                "Id": "GrupoProduto",
+                "ValorPadrao": null,
+                "TipoCampo": "texto",
+                "LabelLargura": 1,
+                "CampoLargura": 3,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 75,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8457,
+                "CodigoSessao": 5125,
+                "Label": "Status",
+                "Nome": null,
+                "Id": "Status",
+                "ValorPadrao": null,
+                "TipoCampo": "texto",
+                "LabelLargura": 1,
+                "CampoLargura": 5,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": true,
+                "SentencaSQL": "Aberto=Aberto\nCancelado=Cancelado\nFinalizado=Finalizado\n",
+                "Ordem": 80,
+                "LeCampoDoBanco": false,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8462,
+                "CodigoSessao": 5125,
+                "Label": "Número",
+                "Nome": null,
+                "Id": "Numero",
+                "ValorPadrao": null,
+                "TipoCampo": "numero",
+                "LabelLargura": 1,
+                "CampoLargura": 2,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 27,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": true,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 10183,
+                "CodigoSessao": 5125,
+                "Label": "D.Limite",
+                "Nome": null,
+                "Id": "DataHoraPrevisto",
+                "ValorPadrao": null,
+                "TipoCampo": "data",
+                "LabelLargura": 1,
+                "CampoLargura": 3,
+                "Identificador": false,
+                "Leitura": false,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 82,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": true,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 10424,
+                "CodigoSessao": 5125,
+                "Label": "SubGrupo",
+                "Nome": null,
+                "Id": "SubGrupoProduto",
+                "ValorPadrao": null,
+                "TipoCampo": "texto",
+                "LabelLargura": 1,
+                "CampoLargura": 3,
+                "Identificador": false,
+                "Leitura": true,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 76,
+                "LeCampoDoBanco": true,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Dados"
+            },
+            {
+                "CodigoCampo": 8448,
+                "CodigoSessao": 5129,
+                "Label": "Empresa",
+                "Nome": null,
+                "Id": "FiltroDescricaoEmpresa",
+                "ValorPadrao": null,
+                "TipoCampo": "selecao",
+                "LabelLargura": 2,
+                "CampoLargura": 4,
+                "Identificador": false,
+                "Leitura": false,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 10,
+                "LeCampoDoBanco": false,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Filtros"
+            },
+            {
+                "CodigoCampo": 8449,
+                "CodigoSessao": 5129,
+                "Label": "Cliente",
+                "Nome": null,
+                "Id": "FiltroCliente",
+                "ValorPadrao": null,
+                "TipoCampo": "prompt",
+                "LabelLargura": 2,
+                "CampoLargura": 4,
+                "Identificador": false,
+                "Leitura": false,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 20,
+                "LeCampoDoBanco": false,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Filtros"
+            },
+            {
+                "CodigoCampo": 8450,
+                "CodigoSessao": 5129,
+                "Label": "Status",
+                "Nome": null,
+                "Id": "FiltroStatus",
+                "ValorPadrao": "Não Finalizadas",
+                "TipoCampo": "selecao",
+                "LabelLargura": 2,
+                "CampoLargura": 4,
+                "Identificador": false,
+                "Leitura": false,
+                "Obrigatorio": false,
+                "SentencaSQL": "Todas=Todas\nNão Finalizadas=Não Finalizadas\nCancelado=Canceladas\nFinalizadas=Finalizadas",
+                "Ordem": 30,
+                "LeCampoDoBanco": false,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Filtros"
+            },
+            {
+                "CodigoCampo": 8451,
+                "CodigoSessao": 5129,
+                "Label": "Responsável",
+                "Nome": null,
+                "Id": "FiltroResponsavel",
+                "ValorPadrao": "UsuarioLogado",
+                "TipoCampo": "selecao",
+                "LabelLargura": 2,
+                "CampoLargura": 4,
+                "Identificador": false,
+                "Leitura": false,
+                "Obrigatorio": false,
+                "SentencaSQL": "UsuarioLogado=UsuarioLogado\nIssotb=Automatico\nTodos=Todos",
+                "Ordem": 40,
+                "LeCampoDoBanco": false,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Filtros"
+            },
+            {
+                "CodigoCampo": 8452,
+                "CodigoSessao": 5129,
+                "Label": "Período",
+                "Nome": null,
+                "Id": "FiltroPeriodoDe",
+                "ValorPadrao": null,
+                "TipoCampo": "data",
+                "LabelLargura": 2,
+                "CampoLargura": 4,
+                "Identificador": false,
+                "Leitura": false,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 50,
+                "LeCampoDoBanco": false,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Filtros"
+            },
+            {
+                "CodigoCampo": 8453,
+                "CodigoSessao": 5129,
+                "Label": "até",
+                "Nome": null,
+                "Id": "FiltroPeriodoAte",
+                "ValorPadrao": null,
+                "TipoCampo": "data",
+                "LabelLargura": 2,
+                "CampoLargura": 4,
+                "Identificador": false,
+                "Leitura": false,
+                "Obrigatorio": false,
+                "SentencaSQL": null,
+                "Ordem": 60,
+                "LeCampoDoBanco": false,
+                "GravaCampoNoBanco": false,
+                "Ativo": true,
+                "CampoForeignKeyPrompt": null,
+                "Visivel": true,
+                "Alinhamento": "auto",
+                "CodigoObjeto": 34,
+                "Sessao": "Filtros"
+            }
+        ],
+        "ErrorMessage": null,
+        "ErrorStack": null,
+        "HasError": false,
+        "Html": null,
+        "Columns": [
+            {
+                "ColumnName": "CodigoCampo",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "CodigoSessao",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Label",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Nome",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Id",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "ValorPadrao",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "TipoCampo",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "LabelLargura",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "CampoLargura",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Identificador",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "Leitura",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "Obrigatorio",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "SentencaSQL",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Ordem",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "LeCampoDoBanco",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "GravaCampoNoBanco",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "Ativo",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "CampoForeignKeyPrompt",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Visivel",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "Alinhamento",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "CodigoObjeto",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Sessao",
+                "ColumnType": "String"
+            }
+        ]
+    },
+    {
+        "RecordsAffected": 2,
+        "Records": [
+            {
+                "CodigoGrid": 2544,
+                "CodigoSessao": 5124,
+                "Descricao": "GridRequisicoes",
+                "SentencaSQL": "SELECT D.Numero,\n       D.CodigoDocumento,\n       C.Apelido Cliente,\n       D.Status,\n       D.Observacao Assunto,\n       cast(D.DataHoraEmissao as date) Desde,\n       CE.Apelido AS Empresa,\n       CR.Apelido Responsavel,\n       D.Revisao,\n       D.CodigoEmpresa,\n       D.CodigoContatoResponsavel,\n       D.DataHoraEmissao,\n       CASE\n           WHEN\n                  (SELECT top 1 StatusFinalizado\n                   FROM DocumentoStatus DS\n                   WHERE DS.CodigoDocumento = D.CodigoDocumento\n                   ORDER BY CodigoDocumentoStatus DESC) = \u0027Em Andamento\u0027\n                AND\n                  (SELECT top 1 DataHoraFinalizado\n                   FROM DocumentoItem\n                   WHERE CodigoDocumento=d.CodigoDocumento\n                   ORDER BY DataHoraEmissao DESC) IS NOT NULL THEN \u0027Em Pausa\u0027\n           ELSE\n                  (SELECT top 1 StatusFinalizado\n                   FROM DocumentoStatus DS\n                   WHERE DS.CodigoDocumento = D.CodigoDocumento\n                   ORDER BY CodigoDocumentoStatus DESC)\n       END StatusInterno,\n\n  (SELECT top 1 CASE\n                    WHEN (DI.DataHoraFinalizado IS NULL) THEN 1\n                    ELSE 0\n                END Apontamento\n   FROM DocumentoItem DI\n   WHERE DI.CodigoDocumento = D.CodigoDocumento\n     AND DI.TipoItem = \u0027Apontamento\u0027\n   ORDER BY CodigoDocumentoitem DESC) Apontamento,\n       DI2.DescricaoItem,\n\tI.Grupo,\n\tI.SubGrupo,\n\tI.GarantiaDescricao,\n       cast(D.DataHoraFinalizado as date) DataFinalizado,\n       cast(D.DataHoraFinalizado as date) DataHoraFinalizado\nFROM Documento D\nINNER JOIN Contato AS C ON D.CodigoContato = C.CodigoContato\nINNER JOIN Contato AS CR ON D.CodigoContatoResponsavel = CR.CodigoContato\nINNER JOIN Contato AS CE ON D.CodigoEmpresa = CE.CodigoContato\nINNER JOIN DocumentoItem AS DI2 ON DI2.CodigoDocumento = D.CodigoDocumento\nLEFT JOIN Item AS I ON I.CodigoItem = DI2.CodigoItem\nWHERE D.Tipo = \u0027Requisição\u0027 \n  AND TipoItem=\u0027Requisição\u0027 \n",
+                "Altura": null,
+                "Editar": false,
+                "Excluir": false,
+                "Incluir": false,
+                "Gravar": false,
+                "Paginacao": 1,
+                "Selecionar": null,
+                "Excel": true,
+                "MinimizarLinhas": true,
+                "TabelaMaster": "Documento",
+                "OrdenaGrade": true,
+                "FiltraGrade": true,
+                "AgrupaGrade": true,
+                "Ativo": true,
+                "ForeignKeyName": "",
+                "MultiRow": false,
+                "CodigoObjeto": 34,
+                "Sessao": "Requisições (Filtradas)"
+            },
+            {
+                "CodigoGrid": 2550,
+                "CodigoSessao": 5126,
+                "Descricao": "GridApontamentos",
+                "SentencaSQL": " select \nDI.CodigoDocumento, \nDI.CodigoDocumentoItem, \nDI.CodigoItem, \nIsnull(CO.Apelido,\u0027Não Identificado\u0027)  as ResponsavelApontamento,  \nDI.DataHoraEmissao, \nDI.DataHoraFinalizado  \nfrom  \ndocumentoItem DI \nleft join Contato CO on (DI.DocumentoItemCodigoContato = Co.CodigoContato)  \nwhere DI.TipoItem = \u0027Apontamento\u0027 ",
+                "Altura": null,
+                "Editar": true,
+                "Excluir": false,
+                "Incluir": false,
+                "Gravar": false,
+                "Paginacao": 0,
+                "Selecionar": null,
+                "Excel": true,
+                "MinimizarLinhas": false,
+                "TabelaMaster": "DocumentoItem",
+                "OrdenaGrade": true,
+                "FiltraGrade": true,
+                "AgrupaGrade": false,
+                "Ativo": true,
+                "ForeignKeyName": "",
+                "MultiRow": false,
+                "CodigoObjeto": 34,
+                "Sessao": "Apontamentos"
+            }
+        ],
+        "ErrorMessage": null,
+        "ErrorStack": null,
+        "HasError": false,
+        "Html": null,
+        "Columns": [
+            {
+                "ColumnName": "CodigoGrid",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "CodigoSessao",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Descricao",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "SentencaSQL",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Altura",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Editar",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "Excluir",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "Incluir",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "Gravar",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "Paginacao",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Selecionar",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "Excel",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "MinimizarLinhas",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "TabelaMaster",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "OrdenaGrade",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "FiltraGrade",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "AgrupaGrade",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "Ativo",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "ForeignKeyName",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "MultiRow",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "CodigoObjeto",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Sessao",
+                "ColumnType": "String"
+            }
+        ]
+    },
+    {
+        "RecordsAffected": -1,
+        "Records": [],
+        "ErrorMessage": null,
+        "ErrorStack": null,
+        "HasError": false,
+        "Html": null,
+        "Columns": [
+            {
+                "ColumnName": "CodigoGrafico",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "CodigoSessao",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "TipoGrafico",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "SentencaSQL",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "CodigoObjeto",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Sessao",
+                "ColumnType": "String"
+            }
+        ]
+    },
+    {
+        "RecordsAffected": -1,
+        "Records": [],
+        "ErrorMessage": null,
+        "ErrorStack": null,
+        "HasError": false,
+        "Html": null,
+        "Columns": [
+            {
+                "ColumnName": "CodigoSessao",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Foto",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Titulo",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "SubTitulo",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Detalhe",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Status",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "CodigoObjeto",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Sessao",
+                "ColumnType": "String"
+            }
+        ]
+    },
+    {
+        "RecordsAffected": -1,
+        "Records": [],
+        "ErrorMessage": null,
+        "ErrorStack": null,
+        "HasError": false,
+        "Html": null,
+        "Columns": [
+            {
+                "ColumnName": "CodigoObjetoItem",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "CodigoObjeto",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "CodigoPai",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Descricao",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "NomeObjetoItem",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Tipo",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "ValorPadrao",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Ordem",
+                "ColumnType": "Int32"
+            },
+            {
+                "ColumnName": "Ativo",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "Visivel",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "Alinhamento",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Icone",
+                "ColumnType": "String"
+            },
+            {
+                "ColumnName": "Leitura",
+                "ColumnType": "Boolean"
+            },
+            {
+                "ColumnName": "DataAlteracao",
+                "ColumnType": "DateTime"
+            }
+        ]
+    }
+]
