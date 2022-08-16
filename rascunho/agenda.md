@@ -7,33 +7,68 @@
 { 
   tarefa: 
   {
-    tabela: 'Documento',
-    CampoNoBanco: 'Titulo Tela',
     id: '',
-    Observacao: 'Assunto',
-    ObservacaoInterna: 'Solicitação',
-    DescricaoProduto: 'Classificação',
-    CodigoProduto: 'Codigo Produto',
-    Prioridade: 'Prioridade',
+    ordem: 0;
+    tipo: '',
+    assunto: 'texto' ? titulo,
+    solicitacao: 'texto'  ? descricao,
+    classificacao: '',
+    idProduto: '',
+    prioridade: '',
+    dataHoraEmissao: 'aaaa-mm-dd hh:mm:ss',
+    dataHoraFinalizado: 'aaaa-mm-dd hh:mm:ss',
+    dataLimite: '',
+    operacao: ,
+    empresa: {
+      id: '',
+      cnpj: '',
+      razaosocial: ''
+    }
+    solicitante: {
+      id: '',
+      cpf: '',
+      nome: ''
+    },
+    responsavel:{
+      id: '',
+      cpf: '',
+      nome: ''
+    },
+    cliente: {
+      cpfcnpj: '',
+      id: '',
+      nome: ''
+    },
+    contato: {
+      id: '',
+      cpf: '',
+      nome: '',
+      telefone: '',
+      email: ''
+    }    
+    convidados: {
+      id: {
+        nome:,
+        email:
+      }
+    }
+    anotacoes: {
+      id: {
+        dataHoraCriacao: '',
+        usuario: ''
+        texto: ''
+      }
+    },
+    apontamentos: {
+      id: {
+        dataHoraInicio: '',
+        dataHoraFim: '',
+        cpfUsuario: ''
+        Usuario: ''
+      }
 
-    CodigoContatoComprador: 'Solicitante',
-    DescricaoSolicitante: 'Solicitante',
-
-    CodigoContatoResponsavel: 'Responsável',
-    DescricaoResponsavel: 'Responsável',
-
-    NumeroDocumentoNacionalcliente: '',
-    CodigoContato: 'Cliente',
-    DescricaoContato: 'Cliente',
-
-    CodigoEmpresa: 'CodigoEmpresa',
-    DescricaoEmpresa: 'Empresa',
-    
-    TelefoneContato: 'Telefone',
-    EmailContato: 'Email',
-    
-    OperacaoProduto: 'Operação',
-
+    }
+    //arquivos anexos: 'em outra tabela'
   }
 }
 ```
