@@ -4,7 +4,7 @@ Guia de referência inicial para trabalhar com nodejs
 
 ---
 ### Ferramentas necessárias no PC
-* nodejs v16
+* nodejs v20
 * npm
 * Visual Studio Code
 * git
