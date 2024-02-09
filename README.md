@@ -11,9 +11,9 @@ Guia de referência inicial para trabalhar com nodejs
 
 ---
 ## Sites
-https://nodejs.org/pt-br/
+https://nodejs.org/en
 
-https://nodejs.org/dist/latest-v16.x/docs/api/
+https://nodejs.org/dist/latest-v20.x/docs/api/
 
 https://code.visualstudio.com/download
 
